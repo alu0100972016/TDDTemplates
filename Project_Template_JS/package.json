@@ -1,0 +1,17 @@
+{
+  "name": "project_template_js_tdd",
+  "version": "1.0.0",
+  "description": "plantilla para intelliJ de JS para TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0"
+  }
+}
